@@ -1,0 +1,56 @@
+<!DOCTYPE html>  
+<html>  
+  
+<head>  
+<title> CSS border-radius </title>  
+<style>  
+div {  
+padding: 50px;  
+margin: 20px;  
+border: 6px ridge red;  
+width: 300px;  
+float: left;  
+height: 150px;  
+}  
+p{  
+font-size: 25px;  
+}  
+#one {  
+border-radius: 90px;  
+background: blue;  
+}  
+#two {  
+border-radius: 25% 10%;  
+background: green;  
+}  
+#three {  
+border-radius: 35px 10em 10%;  
+background: gold;  
+}  
+#four {  
+border-radius: 50px 50% 50cm 50em;  
+background: pink;  
+}  
+  
+</style>  
+</head>  
+  
+<body>  
+<div id = "one">  
+<h2> anand </h2>  
+<p> appa </p>  
+</div>  
+<div id = "two">  
+<h2>gayathiri </h2>  
+<p> mother </p>  
+</div>  
+<div id = "three">  
+<h2> kavin </h2>  
+<p>son</p>  
+</div>  
+<div id = "four">  
+<h2>shrinidhie</h2>  
+<p>daughter</p>  
+</div>  
+</body>  
+</html>
