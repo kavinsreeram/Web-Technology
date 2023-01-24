@@ -1,0 +1,80 @@
+#CSS FONT SIZE IN PIXEL
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+
+#first {
+  font-size: 40px;
+}
+#second {
+  font-size: 20px;
+}
+</style>
+</head>
+<body>
+
+<p id="first">kavin</p>
+<p id="second">kavin.</p>
+
+</body>
+</html>
+
+#CSS FONT SIZE IN em
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+#first {
+  font-size: 2.5em; /* 40px/16=2.5em */
+}
+
+#second {
+  font-size: 1.875em; /* 30px/16=1.875em */
+ }
+
+#third {
+  font-size: 0.875em; /* 14px/16=0.875em */
+}
+</style>
+</head>
+<body>
+
+<p id='first'>kavin</p>
+<p id='second'>kavin</p>
+<p id='third'>kavin</p>
+</body>
+</html>
+
+#CSS RESPONSIVE FONT SIZE
+<!DOCTYPE html>
+<html>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<body>
+
+
+<p style="font-size:5vw;">KAVIN SREERAM</p>
+<p style="font-size:10vw;">KAVIN SREERAM</p>
+
+</body>
+</html>
+
+
+#CSS FONT SIZE WITH LENGTH PROPERTY
+<!DOCTYPE html> 
+<html> 
+    <head> 
+        <style> 
+            .length { 
+                color:red; 
+                font-size: 5cm; 
+            } 
+        </style> 
+    </head> 
+      
+    <body> 
+        <h1>font-size property</h1> 
+          
+        <p class = "length">Y yuvaraj</p> 
+    </body> 
+</html>  
