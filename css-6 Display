@@ -1,0 +1,97 @@
+#CSS DISPLAY INLINE
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+p {
+display: inline; 
+}
+</style>
+</head>
+<body>
+<p>computer course</p>
+<p>Java </p>
+<p>SQL </p>
+<p>HTML </p>
+<p>CSS </p>
+</body>
+</html> 
+
+#CSS DISPLAY INLINE-BLOCK
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+p {
+display: inline-block; 
+}
+</style>
+</head>
+<body>
+<p>computer course</p>
+<p>Java </p>
+<p>SQL </p>
+<p>HTML </p>
+<p>CSS </p>
+</body>
+</html> 
+
+#3 CSS DISPLAY BLOCK
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+p {
+display: block; 
+}
+</style>
+</head>
+<body>
+<p>computer course</p>
+<p>Java </p>
+<p>SQL </p>
+<p>HTML </p>
+<p>CSS </p>
+</body>
+</html> 
+
+#4 CSS DISPLAY RUN-IN
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+p {
+display: run-in; 
+}
+</style>
+</head>
+<body>
+<p>computer course</p>
+<p>Java </p>
+<p>SQL </p>
+<p>HTML </p>
+<p>CSS </p>
+</body>
+</html> 
+
+#5 CSS DISPLAY NONE
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+p {
+display: none; 
+}
+</style>
+</head>
+<body>
+<p>computer course</p>
+<p>Java </p>
+<p>SQL </p>
+<p>HTML </p>
+<p>CSS </p>
+</body>
+</html> 
+
+
+
