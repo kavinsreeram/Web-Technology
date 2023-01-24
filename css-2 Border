@@ -1,0 +1,77 @@
+#CSS border style
+<!DOCTYPE html>  
+<html>  
+<head>  
+<style>  
+p.none {border-style: none;}  
+p.dotted {border-style: dotted;}  
+p.dashed {border-style: dashed;}  
+p.solid {border-style: solid;}  
+p.double {border-style: double;}  
+p.groove {border-style: groove;}  
+p.ridge {border-style: ridge;}  
+p.inset {border-style: inset;}  
+p.outset {border-style: outset;}  
+p.hidden {border-style: hidden;}  
+</style>  
+</head>  
+<body>  
+<p class="none">No border.</p>  
+<p class="dotted">A dotted border.</p>  
+<p class="dashed">A dashed border.</p>  
+<p class="solid">A solid border.</p>  
+<p class="double">A double border.</p>  
+<p class="groove">A groove border.</p>  
+<p class="ridge">A ridge border.</p>  
+<p class="inset">An inset border.</p>  
+<p class="outset">An outset border.</p>  
+<p class="hidden">A hidden border.</p>  
+</body>  
+</html>  
+
+#CSS border-width
+<!DOCTYPE html>  
+<html>  
+<head>  
+<style>  
+p.one {  
+    border-style: solid;  
+    border-width: 5px;  
+}  
+p.two {  
+    border-style: solid;  
+    border-width: medium;  
+}  
+p.three {  
+    border-style: solid;  
+    border-width: 1px;  
+}  
+</style>  
+</head>  
+<body>  
+<p class="one">kavin</p>  
+<p class="two">kavin</p>  
+<p class="three">kavin</p>  
+</body>  
+</html>
+
+#CSS border-color
+<!DOCTYPE html>  
+<html>  
+<head>  
+<style>  
+p.one {  
+    border-style: solid;  
+    border-color: blue;  
+}  
+p.two {  
+    border-style: solid;  
+    border-color: #98bf21;  
+}   
+</style>  
+</head>  
+<body>  
+<p class="one">kavin</p>  
+<p class="two">kavin</p>  
+</body>  
+</html>  
