@@ -1,0 +1,95 @@
+#Background Color
+<!DOCTYPE html>  
+<html>  
+<head>  
+<style>  
+h2,p{  
+    background-color: #b0d4de;  
+}  
+</style>  
+</head>  
+<body>  
+<h2>yuvaraj</h2>  
+<p>Trainer</p>  
+</body>  
+</html>  
+
+#Background Image
+<!DOCTYPE html>  
+<html>  
+<head>  
+<style>  
+body {  
+background-image: url("kavi.jpg");
+margin-left:100px;
+}  
+</style>  
+</head>  
+<body>  
+<h1>WELCOME</h1>  
+</body>  
+</html>   
+
+#Background repeat
+<!DOCTYPE html>  
+<html>  
+<head>  
+<style>  
+body {  
+    background-image: url("kavi.jpg");  
+    background-repeat: repeat-x;
+               
+}  
+</style>  
+</head>  
+<body>  
+<h1>welcome</h1>  
+</body>  
+</html
+
+#Background Attachment
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body  {
+background: white url('Kavi.jpg');
+background-repeat: no-repeat;
+background-attachment: fixed;
+margin-left:200px;
+}
+</style>
+</head>
+<body>
+<p>welcome.</p>
+<p>welcome.</p>
+<p>welcome.</p>
+<p>welcome.</p>
+<p>welcome.</p>
+</body>
+</html> 
+
+#Background Position
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body  {
+background: white url('kavi.jpg');
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-position: right;   
+}
+</style>
+</head>
+<body>
+<p>welcome.</p>
+<p>welcome.</p>
+<p>welcome.</p>
+<p>welcome.</p>
+<p>welcome.</p>
+<p>welcome.</p>
+<p>welcome.</p>
+</body>
+</html>  
+
